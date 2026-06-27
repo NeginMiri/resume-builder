@@ -7,5 +7,9 @@ height:100%;
 };
 @theme{
   --color-bg-100:#E2E8F0;
-
+  --color-bg-200:#38b2ac;
+  --color-bg-300:rgb(49,151,149);
+ --color-tx-100:#38b2ac;
+ --color-tx-200:#718096;
+ 
 }
