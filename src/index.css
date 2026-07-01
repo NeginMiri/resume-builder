@@ -9,7 +9,12 @@ height:100%;
   --color-bg-100:#E2E8F0;
   --color-bg-200:#38b2ac;
   --color-bg-300:rgb(49,151,149);
+  --color-bg-400:#d2e4e1;
+  --color-bg-500:#E6FFFA;
+  --color-bg-600:
+  #F7FAFC;
  --color-tx-100:#38b2ac;
  --color-tx-200:#718096;
- 
+ --color-tx-300:#E2E8F0;
+ --color-tx-400:#2C7A7B;
 }
